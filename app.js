@@ -36,9 +36,20 @@ btnSearch.addEventListener('click', function () {
     xhr.send();
 })
 
+function additionner(){
+    
+}
+
+function soustraire(){
+    
+}
+
+function multiplier(){
+    
+}
 function cardFilm(film){
     var 
-    
+    `
     <div class="card" style="width: 18rem;">
   <img src="..." class="card-img-top" alt="...">
   <div class="card-body">
@@ -47,4 +58,6 @@ function cardFilm(film){
     <a href="#" class="btn btn-primary">Go somewhere</a>
   </div>
 </div>
+`
 }
+
