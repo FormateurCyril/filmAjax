@@ -1,5 +1,6 @@
 var btnSearch = document.getElementById('search');
 var key = '21c33810'
+console.log('coucou');
 btnSearch.addEventListener('click', function () {
 
     let search = '';
